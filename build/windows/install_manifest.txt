@@ -1,0 +1,16 @@
+D:/p1/flutter_application_1/build/windows/runner/Debug/data/icudtl.dat
+D:/p1/flutter_application_1/build/windows/runner/Debug/flutter_windows.dll
+D:/p1/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/p1/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/p1/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/assets/login.jpg
+D:/p1/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/assets/meetpeople.jpg
+D:/p1/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/assets/music.jpg
+D:/p1/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/assets/register(1).jpg
+D:/p1/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/assets/work.avif
+D:/p1/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/p1/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/p1/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/p1/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/NOTICES
+D:/p1/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/p1/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/p1/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
