@@ -54,8 +54,8 @@ Receive personalized suggestions based on responses.
 ![image](https://github.com/user-attachments/assets/a68bfb9a-d773-4340-be31-d54d1b9983ad)
 
 
-Contributing
+# Contributing
 Contributions are welcome! Please create a pull request or open an issue for any improvements or bug fixes.
 
-License
+# License
 This project is licensed under the MIT License.
