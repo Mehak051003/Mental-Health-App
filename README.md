@@ -1,4 +1,4 @@
-## Mental Health App
+# Mental Health App
 # Introduction
 This app aims to help users detect their mental health status and provide suggestions based on their responses. It integrates Flutter for the frontend and Firebase for the backend.
 
