@@ -35,18 +35,22 @@ flutter run
 # Usage
 Login:
 Enter email and password to sign in.
+
 ![image](https://github.com/user-attachments/assets/22bdce96-de0d-4d40-b447-c8611c0ca2a0)
 
 Start Survey:
 Click "Start Survey" to begin.
+
 ![image](https://github.com/user-attachments/assets/981b93ed-b160-4c07-9c6a-e1db9687c864)
 
 Answer Questions:
 Select options for each question and proceed.
+
 ![image](https://github.com/user-attachments/assets/67b046b5-497c-4370-90c9-0736ca8aad56)
 
 View Results:
 Receive personalized suggestions based on responses.
+
 ![image](https://github.com/user-attachments/assets/a68bfb9a-d773-4340-be31-d54d1b9983ad)
 
 
